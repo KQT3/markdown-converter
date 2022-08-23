@@ -1,0 +1,22 @@
+[
+  {
+    "item": "Aktuellt",
+    "uri": "pub/latest",
+    "visibility": "pub"
+  },
+  {
+    "item": "Personalhandbok",
+    "uri": "pub/employee_info",
+    "visibility": "pub"
+  },
+  {
+    "item": "Nginx",
+    "uri": "pub/nginx",
+    "visibility": "pub"
+  },
+  {
+    "item": "Mlkr",
+    "uri": "pub/mlkr",
+    "visibility": "pub"
+  }
+]
